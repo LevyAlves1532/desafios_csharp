@@ -1,0 +1,14 @@
+C:\Users\Lêvy Alves\source\repos\PraticandoConceitos\PraticandoConceitos\obj\Debug\net8.0\PraticandoConceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lêvy Alves\source\repos\PraticandoConceitos\PraticandoConceitos\obj\Debug\net8.0\PraticandoConceitos.AssemblyInfoInputs.cache
+C:\Users\Lêvy Alves\source\repos\PraticandoConceitos\PraticandoConceitos\obj\Debug\net8.0\PraticandoConceitos.AssemblyInfo.cs
+C:\Users\Lêvy Alves\source\repos\PraticandoConceitos\PraticandoConceitos\obj\Debug\net8.0\PraticandoConceitos.csproj.CoreCompileInputs.cache
+C:\Users\Lêvy Alves\source\repos\PraticandoConceitos\PraticandoConceitos\bin\Debug\net8.0\PraticandoConceitos.exe
+C:\Users\Lêvy Alves\source\repos\PraticandoConceitos\PraticandoConceitos\bin\Debug\net8.0\PraticandoConceitos.deps.json
+C:\Users\Lêvy Alves\source\repos\PraticandoConceitos\PraticandoConceitos\bin\Debug\net8.0\PraticandoConceitos.runtimeconfig.json
+C:\Users\Lêvy Alves\source\repos\PraticandoConceitos\PraticandoConceitos\bin\Debug\net8.0\PraticandoConceitos.dll
+C:\Users\Lêvy Alves\source\repos\PraticandoConceitos\PraticandoConceitos\bin\Debug\net8.0\PraticandoConceitos.pdb
+C:\Users\Lêvy Alves\source\repos\PraticandoConceitos\PraticandoConceitos\obj\Debug\net8.0\PraticandoConceitos.dll
+C:\Users\Lêvy Alves\source\repos\PraticandoConceitos\PraticandoConceitos\obj\Debug\net8.0\refint\PraticandoConceitos.dll
+C:\Users\Lêvy Alves\source\repos\PraticandoConceitos\PraticandoConceitos\obj\Debug\net8.0\PraticandoConceitos.pdb
+C:\Users\Lêvy Alves\source\repos\PraticandoConceitos\PraticandoConceitos\obj\Debug\net8.0\PraticandoConceitos.genruntimeconfig.cache
+C:\Users\Lêvy Alves\source\repos\PraticandoConceitos\PraticandoConceitos\obj\Debug\net8.0\ref\PraticandoConceitos.dll
